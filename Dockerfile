@@ -1,4 +1,4 @@
-FROM python:3.7-alpine3.15
+FROM python:3.7-alpine
 MAINTAINER Murugan the Developer
 
 ENV PYTHONUNBUFFERED 1
